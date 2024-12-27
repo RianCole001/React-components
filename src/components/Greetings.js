@@ -5,7 +5,7 @@ function Greetings(props) {
         <div style={{ textAlign: 'center', margin: '20px' }}>
             <h1>Hello, {props.name}!</h1>
             <p>Welcome to React Props learning.</p>
-            <button onClick={shoot}>shoot </button>
+            
         </div>
     );
 }

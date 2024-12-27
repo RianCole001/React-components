@@ -1,3 +1,4 @@
+import React from "react";
 function Football() {
     const shoot = () => {
       alert("Great Shot!");
@@ -8,5 +9,4 @@ function Football() {
     );
   }
   
-  const root = ReactDOM.createRoot(document.getElementById('root'));
-  root.render(<Football />);
+  export default Football;

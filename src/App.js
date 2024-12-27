@@ -8,6 +8,7 @@ import ShootButton from './components/shootButton';
 import Greetings from './components/Greetings';
 import car1 from './components/car1';
 import buttton  from'./components/buttonshoot';
+import Football from './components/football';
 function App() {
   return (
    
@@ -21,7 +22,7 @@ function App() {
             <div className="col-md-6 offset-md-3 text-center p-5 bg-primary text-white rounded">
                
             <ShootButton/>
-            
+            <Football/>
             </div>
 
             <div className="col-md-6 offset-md-3 text-center p-5 bg-primary text-white rounded">
