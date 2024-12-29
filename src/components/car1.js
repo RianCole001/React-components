@@ -1,5 +1,5 @@
 import React from "react";
-function car1(props){
+function Car1(props){
 return(
     <>
     <h2>i am a prop {props.brand} </h2>
@@ -24,4 +24,4 @@ return(
 }
 
 
-export default car1;
+export default Car1;

@@ -1,21 +1,17 @@
 import React from 'react';
 
-function ShootButton() {
-    // Function to handle the button click
-    function handleShoot() {
-        alert('You pressed the Shoot button!');
-    }
+function ShootButton(){
+    return <div>
 
-    return (
-        <div >
-            <button 
-                onClick={handleShoot} 
-                className="btn btn-primary"
-            >
-                Shoot
-            </button>
-        </div>
-    );
+
+<button type="button" class="btn btn-primary btn-lg"> + </button>
+
+
+    </div>
 }
+
+  
+
+    
 
 export default ShootButton;
